@@ -19,7 +19,7 @@ public class test {
 		
 		aa.add(1);
 		aa.add(1);
-		
+		aa.add(2);
 		
 		aa = GenericStack.removeDuplicates(aa);
 		
